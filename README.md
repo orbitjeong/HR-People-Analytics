@@ -60,13 +60,13 @@ Metric definitions follow common HR analytics practices and are documented in SQ
 
 ## 📊 Dashboard Preview
 
-![Cover](<img width="957" height="538" alt="Cover Page" src="https://github.com/user-attachments/assets/98e8b302-49e0-4569-9369-b2ba8605a75b" />)
+![Cover]<img width="957" height="538" alt="Cover Page" src="https://github.com/user-attachments/assets/98e8b302-49e0-4569-9369-b2ba8605a75b" />
 
-![Headcount](<img width="3117" height="1751" alt="Headcount" src="https://github.com/user-attachments/assets/06937dee-22e6-4d78-b340-35f991ebda2c" />)
+![Headcount]<img width="3117" height="1751" alt="Headcount" src="https://github.com/user-attachments/assets/06937dee-22e6-4d78-b340-35f991ebda2c" />
 
-![Retention](<img width="3118" height="1751" alt="retention" src="https://github.com/user-attachments/assets/26954353-8f56-465e-9270-b27931e06d3c" />)
+![Retention]<img width="3118" height="1751" alt="retention" src="https://github.com/user-attachments/assets/26954353-8f56-465e-9270-b27931e06d3c" />
 
-![Turnover](<img width="3123" height="1758" alt="turnover" src="https://github.com/user-attachments/assets/fb1f7ad5-5f41-4b51-a0a4-f397d4911b71" />)
+![Turnover]<img width="3123" height="1758" alt="turnover" src="https://github.com/user-attachments/assets/fb1f7ad5-5f41-4b51-a0a4-f397d4911b71" />
 
 ---
 
